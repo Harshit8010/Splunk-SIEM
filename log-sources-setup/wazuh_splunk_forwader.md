@@ -18,11 +18,18 @@ Splunk Indexer needs to be setup to receive logs before installing and configuri
 
 - Enter `9997` in the Listen on this port input box and click Save.
 
+![siem](Screenshots/wazuhport.png)
+
+
 #### Configuring Indexer
 
 - Go to Settings > Indexes > New Index.
 
 - Enter wazuh-alerts in Index name and click Save.
+
+
+
+
 
 
 ### 1. Install Splunk Universal Forwarder
