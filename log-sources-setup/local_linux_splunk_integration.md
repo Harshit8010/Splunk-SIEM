@@ -17,7 +17,8 @@ Splunk Enterprise (running on the same machine as the systemd journal
 Settings > Data Inputs > Journald
 ```
 
-![linuxvm](../Screenshots/kalvm2.png)
+![linuxvm](../Screenshots/kalivm2.png)
+
 
 - Add a new Journald input:
 
@@ -25,6 +26,7 @@ Settings > Data Inputs > Journald
 Name: journald_input --> Index: linux or any custom index --> Sourcetype: journald (or custom like linux:systemd)
 ```
 
-![linuxvm](../Screenshots/kalvm.png)
+
+![linuxvm](../Screenshots/kalivm.png)
 
 ---
