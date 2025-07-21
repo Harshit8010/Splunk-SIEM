@@ -4,16 +4,6 @@ This guide provides step-by-step instructions to install and configure **Splunk 
 
 ---
 
-## ✅ System Requirements
-
-- OS: Kali Linux (2023+ recommended)
-- CPU: Dual-core or higher
-- RAM: Minimum 4 GB
-- Disk: Minimum 20 GB free
-- Internet connection for initial download
-
----
-
 ## 📥 Step 1: Download Splunk Enterprise
 
 1. Visit the [Splunk Downloads Page](https://www.splunk.com/en_us/download/splunk-enterprise.html)
